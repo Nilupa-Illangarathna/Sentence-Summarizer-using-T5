@@ -1,4 +1,4 @@
-# Hotel Review Summarizer
+# Sentence Summarizer using T5
 
 [![T5 Model](https://img.shields.io/badge/T5_Model-Transformers-orange)](https://huggingface.co/transformers/model_doc/t5.html)
 [![Summarization](https://img.shields.io/badge/Summarization-Sequence--to--Sequence-blue)](https://huggingface.co/transformers/model_doc/t5.html)
